@@ -3,17 +3,17 @@
 int main(){
     int b,m;
 
-    b = 99;
-    m = 100;
+    T = 99;
+    M = 100;
 
     printf("b = %d\n",b);
     printf("m = %d\n\n",m);
 
-    m = m - b;
-    b = m + b;
-    m = b - m;
+    T = T - B;
+    B = M + B;
+    M = B - M;
 
- printf("b = %d\n",b);
-    printf("m = %d\n",m);
+ printf("b = %d\n",B);
+    printf("m = %d\n",T);
 
 }
